@@ -9,5 +9,6 @@ My goals are:
 
 Puzzle | Solution(s) | Remarks |
 ---    |---    |----
-[Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [Python](python/01.py) | Adding comments here... |
-[Day 2: Dive!](https://adventofcode.com/2021/day/2) | [Python](python/02.py) | Adding comments here... |
+[Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [Python](python/01.py) | Easy |
+[Day 2: Dive!](https://adventofcode.com/2021/day/2) | [Python](python/02.py) | Easy |
+[Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) | [Python](python/03.py) | Easy|
